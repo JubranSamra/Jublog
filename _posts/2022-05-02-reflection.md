@@ -15,7 +15,7 @@ In my opinion, the About Me blog was the least relevant to DH, although I unders
 ### Encoding and the TEI blog
 I found the TEI blog to be more valuable and relevant to DH. Although I struggled a little with Oxygen, I liked the process of encoding a passage of writing. At the time, I felt that the blog portion of the assignment where I reflected and explained the encoding process was a waste of time, but I now feel differently. After writing my grant proposal I understand the importance of learning to write about the process of creating a DH project.
 
-### Github as a platform
+### My opinions on Github
 As for the platform of Github in general, I found it to be unintuitive and confusing at times. It’s not a platform I’ve used before, and to be honest it’s a platform I hope to never use again. I learned to use Wordpress in a different class, and when I compare the two, I strongly prefer Wordpress. On Github, the user has to learn to use Markdown codes to do basic tasks, such as inserting an image. This would be far easier on a more intuitive platform.
 
 ### Assigned readings
@@ -28,7 +28,7 @@ Twitter is not a platform I’m accustomed to, so I struggled with the weekly Tw
 
 I also observed that I rarely read my classmates’ contributions except to fulfill the requirement of tweeting one reply per week. I know many of my classmates were better at using Twitter for this class, so I won’t criticize the use of the platform in this class just because I personally struggled with it. I love the concept of facilitating digital conversations between students and I believe such peer-to-peer engagement is valuable for a class like DH. 
 
-### Reflection on my growth through this course
+### Reflection on my growth
 I’m happy to say that I’ve grown through this course. I now have a far deeper understanding of Digital Humanities beyond just its dictionary definition. I’ve also improved as a writer, gaining a new type of writing experience through descriptive assignments where I explained the process behind a DH project. Being a business major, it will certainly be relevant to my career to be able to describe technical processes in a way that’s clear to the average reader. 
 
 I’ve also developed the ability to critique and evaluate Digital Humanities projects. Although I may never need to apply such skills to DH work specifically, these skills will carry over well to making me a better, more critical reader of other genres of digital projects too.
