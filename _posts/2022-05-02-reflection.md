@@ -10,7 +10,7 @@ As for the platform of Github in general, I found it to be unintuitive and confu
 
 I found that the assigned readings for this class to be very beneficial. They were well-chosen to supplement what we were learning at the time and discussing them in class was definitely helpful in building an understanding of the relevant topics. Although my personality makes me disinclined to participate in class discussions, I took away more from them than I did from the discussions that took place on twitter.
 
-Twitter is not a platform I’m accustomed to, so I struggled with the weekly Tweet assignments for this class. It didn’t feel like a natural way for me to engage with peers, so I feel my contributions may have been lower quality. The attached image below is an example of one of my tweets which fulfilled the requirement for a grade, but unfortunately failed to provide much valuable insight. 
+Twitter is not a platform I’m accustomed to, so I struggled with the weekly Tweet assignments for this class. It didn’t feel like a natural way for me to engage with peers, so I feel my contributions may have been lower quality. The attached image below is an example of one of my tweets which I feel failed to provide much insight that would be valuable to my classmates. 
 
 I also observed that I rarely read my classmates’ contributions except to fulfill the requirement of tweeting one reply per week. I know many of my classmates were better at using Twitter for this class, so I won’t criticize the use of the platform in this class just because I personally struggled with it. I love the concept of facilitating digital conversations between students and I believe such peer-to-peer engagement is valuable for a class like DH. 
 
