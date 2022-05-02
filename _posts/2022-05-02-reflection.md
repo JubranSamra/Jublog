@@ -1,6 +1,10 @@
+
+
 Coming into Digital Humanities, I didn’t know what to expect. I’d heard the term, but I never knew what it really meant. Towards the start of this semester, our class was taught the definition of Digital Humanities, but even since then I’ve developed a deeper understanding of it through hands-on learning.
 
-The assignment that really solidified, in my mind, what constitutes a Digital Humanities project was the Review Blog. It was truly helpful to conduct my own analysis of a DH project. Although this was the hardest blog assignment for me, I would absolutely say that it was the most valuable. The blog that I reviewed would turn out to be useful for my Grant Proposal, as it exposed me to the use of GIS for a DH project. As seen in the image below, the project I reviewed showed me the potential that interactive maps offer for the field of DH.
+The assignment that really solidified, in my mind, what constitutes a Digital Humanities project was the Review Blog. It was truly helpful to conduct my own analysis of a DH project. Although this was the hardest blog assignment for me, I would absolutely say that it was the most valuable. The blog that I reviewed, Orbis, would turn out to be very useful for my Grant Proposal, as it exposed me to the use of GIS for a DH project. As seen in the image below, the project I reviewed showed me the potential that interactive maps offer for the field of DH.
+
+![Orbis](https://jubransamra.github.io/Jublog/images/orbisjpg.jpg)
 
 In my opinion, the About Me blog was the least relevant to DH, although I understand that its purpose was to get our class accustomed to posting on Github and using Markdown to format our posts. I struggled to connect with this assignment, as most of the time was spent writing about myself. I don’t necessarily have a problem with writing about myself, but when I know the subject of my writing is unrelated to the class, I struggle to stay motivated. I would have connected with this blog better if it had been more targeted to developing competency in Github and Markdown while minimizing additional work that didn’t directly support that goal.
 
@@ -11,6 +15,8 @@ As for the platform of Github in general, I found it to be unintuitive and confu
 I found that the assigned readings for this class to be very beneficial. They were well-chosen to supplement what we were learning at the time and discussing them in class was definitely helpful in building an understanding of the relevant topics. Although my personality makes me disinclined to participate in class discussions, I took away more from them than I did from the discussions that took place on twitter.
 
 Twitter is not a platform I’m accustomed to, so I struggled with the weekly Tweet assignments for this class. It didn’t feel like a natural way for me to engage with peers, so I feel my contributions may have been lower quality. The attached image below is an example of one of my tweets which I feel failed to provide much insight that would be valuable to my classmates. 
+
+![Tweet](https://jubransamra.github.io/Jublog/images/tweetjpg.jpg)
 
 I also observed that I rarely read my classmates’ contributions except to fulfill the requirement of tweeting one reply per week. I know many of my classmates were better at using Twitter for this class, so I won’t criticize the use of the platform in this class just because I personally struggled with it. I love the concept of facilitating digital conversations between students and I believe such peer-to-peer engagement is valuable for a class like DH. 
 
